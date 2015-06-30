@@ -1,6 +1,6 @@
 {
   "name": "reminder-bot",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "author": "mel <mel.michael@andela.co>",
   "description": "This bot sends a reminder for special events, programs, general meetings, birthdays and important daily tasks like logging time.",
@@ -17,7 +17,9 @@
     "hubot-rules": "^0.1.1",
     "hubot-scripts": "^2.16.1",
     "hubot-shipit": "^0.2.0",
-    "hubot-slack": "^3.3.0"
+    "hubot-slack": "^3.3.0",
+    "lodash": "^3.9.3",
+    "needle": "^0.9.2"
   },
   "engines": {
     "node": "0.10.x"
